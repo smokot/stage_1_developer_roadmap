@@ -18,3 +18,4 @@ Stage 1. Basics
   * composer dumpautoload - composer.json - autoload { classmap: []}. "psr-4": {
     "Пространство имён\\": "src/"
 }
+4. Git
