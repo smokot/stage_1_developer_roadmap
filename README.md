@@ -28,5 +28,4 @@ Stage 1. Basics
   * add - добавить
   * checkout - прыгнуть на ветку
   * merge - слияние
-5. Node.js и npm
-6. Docker (ознакомительно)
+
