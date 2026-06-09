@@ -15,4 +15,6 @@ Stage 1. Basics
   * composer remove
   * composer update
   * composer show
-  * composer dumpautoload - composer.json - autoload { classmap: []}
+  * composer dumpautoload - composer.json - autoload { classmap: []}. "psr-4": {
+    "Пространство имён\\": "src/"
+}
